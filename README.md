@@ -24,9 +24,11 @@ void loop()
       servo2.write (f);
     }
   }
+  
   else
   {
     servol.write(0);
     servo2.write (0) ;
   }
+  
 }

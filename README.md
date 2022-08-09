@@ -1,4 +1,6 @@
 # Circuit-for-connecting-and-disconnecting-the-electric-current-for-the-motors
+<img width="881" alt="‏لقطة الشاشة ١٤٤٤-٠١-١١ في ٦ ١٦ ١٨ ص" src="https://user-images.githubusercontent.com/108236976/183556497-f4ad26b8-c367-4592-984b-39de162640f7.png">
+
 # Code 
 #include <Servo.h>
 
